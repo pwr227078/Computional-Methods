@@ -1,0 +1,2 @@
+First derivative value: 15.760000 
+Second derivative value: 12.000000
