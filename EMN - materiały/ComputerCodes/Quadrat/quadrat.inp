@@ -1,0 +1,1 @@
+0. 10. 10 1000 1.e16 10         read(10,*)xl,xr,Nh1,Nh2,stepNh
